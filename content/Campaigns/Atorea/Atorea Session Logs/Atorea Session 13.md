@@ -2,7 +2,6 @@
 Session Date: 2024-10-29
 tags:
   - Atorea-Session-Log
-  - Publish
 Attendance:
   - Em
   - Erich
@@ -18,6 +17,7 @@ Characters:
 Previous Session: "[[Atorea Session 12]]"
 Next Session: "[[Atorea Session 14]]"
 icon: RiBook2Line
+publish: true
 ---
 Party Leveled up to level 4 at the start of this session
 

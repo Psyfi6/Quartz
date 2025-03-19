@@ -1,7 +1,7 @@
 ---
 tags:
   - Lore-of-Losthaven-Handout
-  - Publish
+publish: true
 ---
 I hope this missive finds you well. Word of your exploits and service have reached past the Crimson Coast, along the Altar’s Strait, and onto Stormbreaker’s wharf to my Landing. I must commend a job well done at dispensing of my justice and acting on the crown’s behalf. Whilst my son would have loved to have heard of your deeds, it gladdens my heart to hear that there are those that would take up the mantle as agents of my realm. 
 

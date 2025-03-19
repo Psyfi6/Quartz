@@ -2,7 +2,6 @@
 Session Date: 2025-02-25
 tags:
   - PlaneScape-Session-Log
-  - "#Publish"
 Attendance:
   - Em
   - Erich
@@ -19,6 +18,7 @@ Characters:
 Previous Session: "[[PlaneScape Session 0]]"
 Next Session: "[[PlaneScape Session 2]]"
 icon: RiBook2Line
+publish: true
 ---
 Pete caught up to us in the hallway. As Pete got to us we had someone open up one of the other doors beside us and begin questioning us about what we were doing here. After a quick few words back and forth things ended up in a fight. Pinto went down as she was focused for being the one to talk back to the guy questioning us. M.J. was able to get Pinto back up. There was another door that opened up that had some Poltergeists and Skeletons that came out and started attacking us after we had causes some commotion in the hallway. 
 

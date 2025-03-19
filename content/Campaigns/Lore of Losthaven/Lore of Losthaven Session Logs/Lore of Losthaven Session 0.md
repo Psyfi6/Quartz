@@ -2,7 +2,6 @@
 Session Date: 2024-04-02
 tags:
   - Lore-of-Losthaven-Session-Log
-  - Publish
 Attendance:
   - Louis
   - Erich
@@ -18,5 +17,6 @@ Characters:
 Previous Session: 
 Next Session: "[[Lore of Losthaven Session 1]]"
 icon: RiBook2Line
+publish: true
 ---
 Created characters, went over world lore, introduced some of our characters and minor details about backstories. Explained how we are all coming together.

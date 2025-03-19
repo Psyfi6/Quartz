@@ -2,7 +2,6 @@
 Session Date: 2024-05-14
 tags:
   - Atorea-Session-Log
-  - Publish
 Attendance:
   - Louis
   - Jason
@@ -16,6 +15,7 @@ Characters:
 Previous Session: "[[Atorea Session 3]]"
 Next Session: "[[Atorea Session 5]]"
 icon: RiBook2Line
+publish: true
 ---
 
 

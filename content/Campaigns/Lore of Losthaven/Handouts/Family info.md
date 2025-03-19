@@ -1,7 +1,7 @@
 ---
 tags:
   - Lore-of-Losthaven-Handout
-  - Publish
+publish: true
 ---
 ## Romilia 
 Davos Romilia, a human, was sent to Lasthaven for slandering the crown of Lynweer; claiming that there was something unholy at work in court. With dishonor on his name as a traitor, Davos famously defended the city against an unrecorded threat that saved the settlement in its early years. Davos had five children, all of which tragically met their end. Millicent fell ill as a babe and was never spoken of again; rumors circulated that the infant was brought to the woods and offered to the Cloven Cambium. Horace fell from his horse when he was seven. Marisha drowned in the Victoria Harbor after she rejected a proposal from Valeria’s heir when she was only sixteen (no one knows whether or not it was an accident). Roland died in the duel that followed Marisha’s death, claiming that the Valeria clan had arranged for his sister’s death when Roland was 16. Ilya Romilia died in childbirth. The family strained to retain any blood in its line but was survived by Cadmus. The line continued with inconsequential footnotes in history. The current heir to Romilia, Maximus “Maxi” Drakefell is the sitting member of the council and is considered its youngest member. He has a wife (Helena) and three daughters; Ilyana (10), Mallory (8), and Faedra (5)

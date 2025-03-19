@@ -2,7 +2,6 @@
 Session Date: 2024-10-15
 tags:
   - Atorea-Session-Log
-  - Publish
 Attendance:
   - Em
   - Erich
@@ -18,6 +17,7 @@ Characters:
 Previous Session: "[[Atorea Session 11]]"
 Next Session: "[[Atorea Session 13]]"
 icon: RiBook2Line
+publish: true
 ---
 Talked with Amphor (gold dragonborn who was escorting the prince) about why we were here, what happened, who he is and who he's with, where he's going, and same for us. We claimed we were heading into the opposite direction as him and happened to come across the crashed cart. We were in the area looking for a lost item (the dragon ball from Vulcan's dream) although when questioned about what item we were looking for Vulcan claimed it was none of his business. He was hesitant to accept our help but doesn't really have any other option. After some insight/investigation checks we feel confident that this is the prince based on the story, vibe from Amphor, and the gear worn by them. 
 

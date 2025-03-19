@@ -2,7 +2,6 @@
 Session Date: 2025-02-25
 tags:
   - PlaneScape-Session-Log
-  - "#Publish"
 Attendance:
   - Em
   - Erich

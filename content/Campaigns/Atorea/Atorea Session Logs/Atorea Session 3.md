@@ -2,7 +2,6 @@
 Session Date: 2024-04-23
 tags:
   - Atorea-Session-Log
-  - Publish
 Attendance:
   - Louis
   - Erich
@@ -18,6 +17,7 @@ Characters:
 Previous Session: "[[Atorea Session 2]]"
 Next Session: "[[Atorea Session 4]]"
 icon: RiBook2Line
+publish: true
 ---
 
 

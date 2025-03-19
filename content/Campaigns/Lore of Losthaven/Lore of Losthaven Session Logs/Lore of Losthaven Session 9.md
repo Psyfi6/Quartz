@@ -2,7 +2,6 @@
 Session Date: 2024-11-19
 tags:
   - Lore-of-Losthaven-Session-Log
-  - Publish
 Attendance:
   - Jason
   - Louis
@@ -17,6 +16,7 @@ Characters:
 Previous Session: "[[Lore of Losthaven Session 8]]"
 Next Session: "[[Lore of Losthaven Session 10]]"
 icon: RiBook2Line
+publish: true
 ---
 Almeris looked around the various cells and found 2 different cells with symbols of The Clasp carves into the walls. We checked into the zone of truth sigils to see if we could understand them. They seemed like you could possibly remove it and relocate it to use it but it would be difficult to get one out without getting noticed. Tal and Varenian started talking to a random guard asking him what he thought about his boss (Captain Braddock Humes) and then explaining that we think their boss may be related to the incident we are investigating. That guard went to get his supervisor (not the guy we think is guilty), This was Granger Sharpe. We discussed what was going on and Granger suggested we go into another room and discuss this in private. During our discussion with Granger, Tal mentioned that the captain had been involved in some genocide in the past. (Greg 17 insight, Zuke 9 insight, Tal 25 persuasion). Tal convinced everyone that its very likely that the captain was involved in some shady stuff in the past but nobody really knows how it relates to Tal.
 

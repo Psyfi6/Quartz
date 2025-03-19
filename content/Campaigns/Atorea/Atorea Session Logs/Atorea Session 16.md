@@ -2,7 +2,6 @@
 Session Date: 2025-01-14
 tags:
   - Atorea-Session-Log
-  - Publish
 Attendance:
   - Em
   - Erich
@@ -18,6 +17,7 @@ Characters:
 Previous Session: "[[Atorea Session 15]]"
 Next Session: "[[Atorea Session 17]]"
 icon: RiBook2Line
+publish: true
 ---
 As a party we discuss if we should ask around about the stones Vulcan is having dreams about. Vulcan mentions that if these stones are spread out across the world its possible they used to be together and controlled by someone and was split up to keep things safe. Maybe some god or some other legendary type folk lore could exist for the stones and previous owners/users of it. Riley mentions The Arcane Seminary might have some info about these or at least if they are magical items. Although Riley couldn't identify the type of magic from them so that may not be a direct relation. (Riley knew it was magic but not what kind). Lucius mentioned that Thaena Nalore also has a large collection of information at their library but not really related to arcane magic. Zraxyon has a smaller library that focuses on arcane magic and is close by. Riley is pretty confident this is some type of arcane magic but still can't figure out exactly what is going on. 
 

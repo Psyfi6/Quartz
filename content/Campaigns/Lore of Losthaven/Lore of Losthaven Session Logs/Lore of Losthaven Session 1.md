@@ -2,7 +2,6 @@
 Session Date: 2024-04-16
 tags:
   - Lore-of-Losthaven-Session-Log
-  - Publish
 Attendance:
   - Louis
   - Erich
@@ -18,6 +17,7 @@ Characters:
 Previous Session: "[[Lore of Losthaven Session 0]]"
 Next Session: "[[Lore of Losthaven Session 2]]"
 icon: RiBook2Line
+publish: true
 ---
 Meat with captain of city guard, they explained what they wanted from us. Gave us some resources such as health potions, spell scrolls, pets, gear, etc. After gearing up and getting ready we left to go find the bandit camp. We came across the group and killed most of them but kept a few alive.
 

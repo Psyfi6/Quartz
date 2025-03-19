@@ -2,7 +2,6 @@
 Session Date: 2024-11-01
 tags:
   - Lore-of-Losthaven-Session-Log
-  - Publish
 Losthaven_Attendance:
   - Erich
   - Jason
@@ -18,6 +17,7 @@ Characters:
 Previous Session: "[[Lore of Losthaven Session 7]]"
 Next Session: "[[Lore of Losthaven Session 9]]"
 icon: RiBook2Line
+publish: true
 ---
 Almeris was handed an item from Fen in our previous session. After Almeris looked into the item some more he came across a rolled up paper that was basically a "business card" for The Clasp. Its a good item for him to have on him in case he needs to distinguish him self for some specific people. Almeris kept this info to him self. 
 

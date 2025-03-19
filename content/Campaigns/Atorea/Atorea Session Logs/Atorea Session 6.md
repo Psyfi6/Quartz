@@ -2,7 +2,6 @@
 Session Date: 2024-06-11
 tags:
   - Atorea-Session-Log
-  - Publish
 Attendance:
   - Em
   - Erich
@@ -18,6 +17,7 @@ Characters:
 Previous Session: "[[Atorea Session 5]]"
 Next Session: "[[Atorea Session 7]]"
 icon: RiBook2Line
+publish: true
 ---
 
 

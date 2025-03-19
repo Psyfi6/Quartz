@@ -2,7 +2,6 @@
 Session Date: 2024-11-26
 tags:
   - Atorea-Session-Log
-  - Publish
 Attendance:
   - Em
   - Erich
@@ -18,6 +17,7 @@ Characters:
 Previous Session: "[[Atorea Session 13]]"
 Next Session: "[[Atorea Session 15]]"
 icon: RiBook2Line
+publish: true
 ---
 Vulcan heads to a local stable to rent another horse to help us get to Tharum'zuun. Vulcan is able to purchase a Draft Horse for 50 gold. 
 Amphor helped chip in 15 gold and a few others in the party chipped in as well. We start heading to Tharum'Zuun. As we are heading there, we hear a loud screech echo across the sky. Vulcan and Riley seem to somewhat recognize the sound (Wyverns).

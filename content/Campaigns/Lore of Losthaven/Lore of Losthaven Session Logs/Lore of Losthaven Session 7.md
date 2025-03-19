@@ -2,7 +2,6 @@
 Session Date: 2024-08-31
 tags:
   - Lore-of-Losthaven-Session-Log
-  - Publish
 Attendance:
   - Erich
   - Jason
@@ -17,6 +16,7 @@ Characters:
 Previous Session: "[[Lore of Losthaven Session 6]]"
 Next Session: "[[Lore of Losthaven Session 8]]"
 icon: RiBook2Line
+publish: true
 ---
 (BAD NOTES. SORRY. Was sick and not feeling great today. Just added some summary at the end. )
 

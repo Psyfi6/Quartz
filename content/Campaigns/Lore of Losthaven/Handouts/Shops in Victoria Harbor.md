@@ -1,7 +1,7 @@
 ---
 tags:
   - Lore-of-Losthaven-Handout
-  - Publish
+publish: true
 ---
 Dank Dandelion (apothecary/herbalist shop)
 Owner: Dellbert (that’s his full name…like Madonna) (gnome)

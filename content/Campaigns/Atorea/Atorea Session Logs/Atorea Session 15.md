@@ -2,7 +2,6 @@
 Session Date: 2025-01-07
 tags:
   - Atorea-Session-Log
-  - Publish
 Attendance:
   - Em
   - Erich
@@ -17,6 +16,7 @@ Characters:
 Previous Session: "[[Atorea Session 14]]"
 Next Session: "[[Atorea Session 16]]"
 icon: RiBook2Line
+publish: true
 ---
 Christmas Gift for everyone! all characters level up.
 

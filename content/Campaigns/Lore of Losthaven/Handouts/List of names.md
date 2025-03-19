@@ -1,7 +1,7 @@
 ---
 tags:
   - Lore-of-Losthaven-Handout
-  - Publish
+publish: true
 ---
 Romilia
 Valeria

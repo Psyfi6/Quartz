@@ -2,7 +2,6 @@
 Session Date: 2024-08-13
 tags:
   - Lore-of-Losthaven-Session-Log
-  - Publish
 Attendance:
   - Erich
   - Jason
@@ -17,6 +16,7 @@ Characters:
 Previous Session: "[[Lore of Losthaven Session 5]]"
 Next Session: "[[Lore of Losthaven Session 7]]"
 icon: RiBook2Line
+publish: true
 ---
 We start the session time skipped ahead as if we finished the combat that was a continuation from session 5. This was also enough to level us up to level 3. 
 

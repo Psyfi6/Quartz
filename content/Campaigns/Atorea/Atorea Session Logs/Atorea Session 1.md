@@ -2,7 +2,6 @@
 Session Date: 2024-03-26
 tags:
   - Atorea-Session-Log
-  - Publish
 Attendance:
   - Louis
   - Erich
@@ -18,6 +17,7 @@ Characters:
 Previous Session: "[[Atorea Session 0]]"
 Next Session: "[[Atorea Session 2]]"
 icon: RiBook2Line
+publish: true
 ---
 
 Date might be wrong. Not much detail because i only started this on session 3. 

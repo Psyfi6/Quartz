@@ -2,7 +2,6 @@
 Session Date: 2024-05-21
 tags:
   - Lore-of-Losthaven-Session-Log
-  - Publish
 Attendance:
   - Louis
   - Erich
@@ -18,6 +17,7 @@ Characters:
 Previous Session: "[[Lore of Losthaven Session 2]]"
 Next Session: "[[Lore of Losthaven Session 4]]"
 icon: RiBook2Line
+publish: true
 ---
 
 Captain asked us to give suggestions on what to do with the captured bandits. We decided they should be sent to the monastery to be rehabilitated. ([[Bandits]])
