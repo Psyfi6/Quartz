@@ -19,6 +19,7 @@ Characters:
 Previous Session: "[[PlaneScape Session 1]]"
 Next Session: "[[PlaneScape Session 3]]"
 icon: RiBook2Line
+publish: true
 ---
 We search around a bit more. 
 
