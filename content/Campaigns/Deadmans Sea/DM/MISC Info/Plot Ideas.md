@@ -1,0 +1,13 @@
+
+- A group of fishers claims another group of people sabotages their nets and is demanding they pay them back and be kicked out of the island/city
+- A fire breaks out in town and the players may be interested in finding out who did it.
+- A smuggling operation goes south and lands someone important in jail and the players are asked to help him escape. 
+- A horrible sea creature has been sighted. keeping many crews at the docks. Anyone who tracks it down and slays it would be a hero and given a fitting reward.
+- A shipment of supplies has gone missing
+- City guards crack down on smuggling and are searching house by house and checking the pockets of people in the city.
+- Maybe some kind of election day in the future where various people from different factions attempt to run and gain control of the city. The players can either try and make sure nothing shady is going on or be the ones to try and swing the votes in favour of a specific person or faction.
+- Someone tips off the local guards about some shady activity that your party is involved in. 
+- Someone in an opposing faction kidnaps someone from the party as leverage for a deal
+- A small group of escaped slaves arrives at the city guard and claims some faction or people at the dock are slave traders. 
+- It is reported that pirate activity on regular travel routes is higher than normal
+- One faction orders the assassination of important figure from another faction and this failed attempt becomes public information and causes outrage in the city.
