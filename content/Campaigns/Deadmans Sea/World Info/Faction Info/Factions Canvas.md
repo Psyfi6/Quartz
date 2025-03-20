@@ -1,5 +1,0 @@
----
-tags: []
----
-![[Factions Canvas.html]]
-
